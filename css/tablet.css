@@ -1,0 +1,15 @@
+.main-tables-container {
+    max-width: 930px;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    justify-content: center;
+    overflow-x: hidden;
+}
